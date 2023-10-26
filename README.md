@@ -1,5 +1,8 @@
 # Frontend Mentor - QR code component
 
+<img width="1195" alt="Screenshot 2023-10-26 at 11 20 52 AM" src="https://github.com/psinhaa/Work/assets/70463302/8dc25cbf-f6c1-4b0b-b6dd-2b305903d716">
+
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
